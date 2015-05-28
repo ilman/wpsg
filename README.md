@@ -1,0 +1,2 @@
+# wpsg
+Bootstrap wordpress theme
